@@ -4,9 +4,10 @@
   <_Project>
     <ProjectName val="45_PushOKDS"/>
     <VCProjectID val="0"/>
-    <VCActive val="N"/>
+    <VCActive val="Y"/>
     <WorkOffline val="N"/>
     <VCUseGitPlugin val="N"/>
+    <VCProjectName val="."/>
     <SourceDirectory val="Source"/>
     <ExportsDirectory val="Exports"/>
     <GUID val="{1AE0064E-145C-4D9E-B066-0D63BA4557AB}"/>
